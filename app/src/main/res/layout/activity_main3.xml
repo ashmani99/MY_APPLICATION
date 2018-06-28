@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.apps.ankitraz.myapplication.Main3Activity">
+    <LinearLayout
+        android:layout_width="150sp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:layout_gravity="center_horizontal"
+        android:layout_height="170sp">
+    <ImageButton
+        android:layout_width="130sp"
+        android:id="@+id/search_button"
+        android:src="@drawable/twitt"
+        android:scaleType="centerInside"
+        android:layout_height="130sp"></ImageButton>
+        <TextView
+            android:layout_width="130sp"
+            android:height="40sp"
+            android:text="user Timeline"
+            android:layout_height="170sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="150sp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:layout_height="150sp">
+        <ImageButton
+            android:layout_width="130sp"
+            android:id="@+id/sea_button"
+            android:src="@drawable/ash"
+            android:textStyle="bold"
+            android:textSize="14sp"
+            android:scaleType="fitCenter"
+            android:layout_height="130sp"></ImageButton>
+        <TextView
+            android:layout_width="130sp"
+            android:height="20sp"
+            android:textStyle="bold"
+            android:textSize="14sp"
+            android:text="HomeTimeline"
+            android:layout_height="170sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="150sp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:layout_height="150sp">
+
+        <ImageButton
+            android:id="@+id/logout"
+            android:layout_width="130sp"
+            android:layout_height="130sp"
+            android:scaleType="fitEnd"
+            android:src="@drawable/download"></ImageButton>
+        <TextView
+            android:layout_width="130sp"
+            android:height="20sp"
+            android:text="logout"
+            android:textStyle="bold"
+            android:textSize="14sp"
+            android:layout_gravity="center"
+            android:layout_height="170sp" />
+    </LinearLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>

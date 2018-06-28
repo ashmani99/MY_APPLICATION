@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="twitter_consumer_key" translatable="false">PB3jR86RN29vlAugBGAqf9DZx</string>
+    <string name="twitter_consumer_secret" translatable="false">E6eXF85duVaArmpb41Zsfy6eu5ayvC5pVX5Ii9BlpGtQUS0hfr</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+</resources>

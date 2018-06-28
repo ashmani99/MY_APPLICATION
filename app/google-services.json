@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "960248296376",
+    "firebase_url": "https://myapplication-d0e96.firebaseio.com",
+    "project_id": "myapplication-d0e96",
+    "storage_bucket": "myapplication-d0e96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960248296376:android:62744aa36d6a38c8",
+        "android_client_info": {
+          "package_name": "com.apps.ankitraz.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960248296376-0d70sbmipqr0baojck2qkr0pck2ksta5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apps.ankitraz.myapplication",
+            "certificate_hash": "5a6bda662dab302bbb0b8cb08a5b3042464478cd"
+          }
+        },
+        {
+          "client_id": "960248296376-j1gt8n6ke54t3pcg04g2qph6l9gf5vc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuC5IoN0gcuiPvPl7Si5JyjLhyy5XW7uU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960248296376-j1gt8n6ke54t3pcg04g2qph6l9gf5vc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
